@@ -4,14 +4,10 @@ body {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
 }
-
-.alert-container {}
 
 .callout-container {
     height: 100vh;
@@ -177,8 +173,11 @@ body {
     margin-bottom: 25px;
 }
 
-.quotes img {
-    margin-bottom: 24px;
+.rounded-image {
+    margin: 0 24px 24px 0;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 }
 
 /* Features */
