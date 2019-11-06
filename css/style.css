@@ -177,6 +177,10 @@ body {
     margin-bottom: 25px;
 }
 
+.quotes img {
+    margin: 16px;
+}
+
 /* Features */
 
 .feature {
